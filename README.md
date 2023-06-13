@@ -1,0 +1,2 @@
+# delete_tests
+_test_delete_ui_selenium
